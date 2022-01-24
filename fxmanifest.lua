@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author 'barbaronn'
+author 'lilAbaMet'
 description 'http://discord.barbaronn-scripts.shop'
 version '1.0.0'
 
